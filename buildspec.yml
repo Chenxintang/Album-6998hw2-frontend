@@ -9,4 +9,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: src
+  base-directory: front-end
